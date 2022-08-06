@@ -17,8 +17,6 @@ The function `initial_state` returns the starting state of the board. For this
 [Specification](https://cs50.harvard.edu/ai/2020/projects/0/tictactoe/#specification)
 -------------------------------------------------------------------------------------
 
-An automated tool assists the staff in enforcing the constraints in the below specification. Your submission will fail if any of these are not handled properly, if you import modules other than those explicitly allowed, or if you modify functions other than as permitted.
-
 Complete the implementations of `player`, `actions`, `result`, `winner`, `terminal`, `utility`, and `minimax`.
 
 -   The `player` function should take a `board` state as input, and return which player's turn it is (either `X` or `O`).
