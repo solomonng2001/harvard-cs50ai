@@ -5,6 +5,7 @@ Takeaways from this awesome class:
 * Concepts and algorithms at the foundation of modern artificial intelligence, diving into the ideas that give rise to technologies like game-playing engines, handwriting recognition, machine translation...
 * Exposure to the theory behind graph search algorithms, classification, optimization, reinforcement learning...
 * Experience in libraries for machine learning as well as knowledge of artificial intelligence principles to design own intelligent systems
+* Wowed by how powerful applications take root from fundamental concepts
 
 Below is a table of contents for easy navigation through
 my course solutions and projects (assignment descriptions included in individual README documentations):
