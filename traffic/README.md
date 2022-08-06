@@ -1,6 +1,6 @@
 qwerqwere
 
-<div style="page-break-after: always;"></div>
+----
 
 # Goal
 Optimise variable values by maximising accuracy but minimising the time taken for learning and prediction.
