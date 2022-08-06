@@ -73,8 +73,6 @@ The `Nim` and `NimAI` classes are ultimately used in the `train` and `pla
 [Specification](https://cs50.harvard.edu/ai/2020/projects/4/nim/#specification)
 -------------------------------------------------------------------------------
 
-An automated tool assists the staff in enforcing the constraints in the below specification. Your submission will fail if any of these are not handled properly, if you import modules other than those explicitly allowed, or if you modify functions other than as permitted.
-
 Complete the implementation of `get_q_value`, `update_q_value`, `best_future_reward`, and `choose_action` in `nim.py`. For each of these functions, any time a function accepts a `state` as input, you may assume it is a list of integers. Any time a function accepts an `action` as input, you may assume it is an integer pair `(i, j)` of a pile `i` and a number of objects `j`.
 
 The `get_q_value` function should accept as input a `state` and `action` and return the corresponding Q-value for that state/action pair.
