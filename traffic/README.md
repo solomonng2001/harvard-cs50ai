@@ -72,9 +72,14 @@ Ultimately, much of this project is about exploring documentation and investigat
 
 You should not modify anything else in `traffic.py` other than the functions the specification calls for you to implement, though you may write additional functions and/or import other Python standard library modules. You may also import `numpy` or `pandas`, if familiar with them, but you should not use any other third-party Python modules. You may modify the global variables defined at the top of the file to test your program with other values.
 
+<sub>*Assignment description above taken from https://cs50.harvard.edu/ai/2020/*</sub>
+
 ----
 
 # Solution Process
+
+## Video Demonstration
+[<img src="https://i9.ytimg.com/vi/hhN4mqlNoU0/mq2.jpg?sqp=CNTxt5cG&rs=AOn4CLAB-GqvZfC6VIdayiyKuCAXGX41HA" width="50%">](https://www.youtube.com/watch?v=hhN4mqlNoU0)
 
 ## Goal
 Optimise variable values by maximising accuracy but minimising the time taken for learning and prediction.
@@ -125,6 +130,3 @@ dropout = 0.5
 ```
 
 Data: 333/333 - 5s - loss: 0.3315 - accuracy: 0.9183
-
-## Video Demonstration
-[<img src="https://i9.ytimg.com/vi/hhN4mqlNoU0/mq2.jpg?sqp=CNTxt5cG&rs=AOn4CLAB-GqvZfC6VIdayiyKuCAXGX41HA" width="50%">](https://www.youtube.com/watch?v=hhN4mqlNoU0)
