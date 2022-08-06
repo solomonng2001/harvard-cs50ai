@@ -2,7 +2,7 @@
 This repository was created to document my progression throughout the 7 weeks-long [Havard's CS50AI Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/) course in 2022.
 
 Takeaways from this awesome class:
-* Concepts and algorithms at the foundation of modern artificial intelligence, diving into the ideas that give rise to technologies like game-playing engines, handwriting recognition, and machine translation
+* Concepts and algorithms at the foundation of modern artificial intelligence, diving into the ideas that give rise to technologies like game-playing engines, handwriting recognition, machine translation...
 * Exposure to the theory behind graph search algorithms, classification, optimization, reinforcement learning...
 * Experience in libraries for machine learning as well as knowledge of artificial intelligence principles to design own intelligent systems
 
