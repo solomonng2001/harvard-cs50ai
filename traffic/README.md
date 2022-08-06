@@ -126,8 +126,5 @@ dropout = 0.5
 
 Data: 333/333 - 5s - loss: 0.3315 - accuracy: 0.9183
 
-# Video Demonstration
-The functionality of the machine learning algorithm is demonstrated in the video link below.<br>
-<a href="https://youtu.be/hhN4mqlNoU0" target="_blank">
-    <img src="https://i9.ytimg.com/vi/hhN4mqlNoU0/mq2.jpg?sqp=CNiX3pIG&rs=AOn4CLCrG8fio4KR1-anMd5PrlQjdiX50g" width="240" height="180" border="10" />
-</a>
+## Video Demonstration
+[<img src="https://i9.ytimg.com/vi/hhN4mqlNoU0/mq2.jpg?sqp=CNTxt5cG&rs=AOn4CLAB-GqvZfC6VIdayiyKuCAXGX41HA" width="50%">](https://www.youtube.com/watch?v=hhN4mqlNoU0)
